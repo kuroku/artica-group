@@ -11,6 +11,7 @@
 
 <svelte:head>
 	<title>Artica group</title>
+	<meta name="description" content="Us work in seo, marketing digital, photografy an more" />
 </svelte:head>
 
 <Home />
